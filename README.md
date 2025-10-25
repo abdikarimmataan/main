@@ -1,9 +1,9 @@
-👋 Hi there, I'm Samuel Olayinka – Data Analyst
+👋 Hi there, I'm Abdikarim Mataan – Data Analyst
+
 Welcome to my GitHub profile! I’m a passionate Data Analyst with strong skills in turning raw data into meaningful insights using tools like Excel, Power BI, SQL, and Python. My mission is to help businesses make better decisions using data.
 
 🔍 About Me
-🎓 Background in [🎓 B.Sc. in Health Education – National Open University of Nigeria (NOUN) 📘 N.C.E. in Integrated Science/Biology – Adeyemi College of Education, Ondo
-📊 Focused on Data Analytics, Business Intelligence, Insight Analyst and Visualization
+🎓 Background in [🎓 Master in Project Management at Open University of Malaysia (OUM) 📘 Master in  Humanitarian Aid & International Cooperation at Kalu Institute, Spain. 📊 Focused on Data Analytics, Business Intelligence, Insight Analyst and Visualization
 🧰 Tools I Use: Excel, Power BI, SQL, Python.
 📍 Currently working on real-world data projects and capstone case studies
 🌱 Always learning new skills and frameworks for better storytelling with data
