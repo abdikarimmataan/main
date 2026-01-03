@@ -1,75 +1,97 @@
-👋 Hi there, I'm Abdikarim Mataan – Data Analyst
+# 👋 Hi, I'm **Abdikarim Mataan**
 
-Welcome to my GitHub profile! I’m a passionate Data Analyst with strong skills in turning raw data into meaningful insights using tools like Excel, Power BI, SQL, and Python. My mission is to help businesses make better decisions using data.
+### 📊 Data Analyst | 📈 Project Manager | 🔍 Insight-Driven Problem Solver
 
-🔍 About Me
-🎓 Background in [🎓 Master in Project Management at Open University of Malaysia (OUM) 📘 Master in  Humanitarian Aid & International Cooperation at Kalu Institute, Spain. 📊 Focused on Data Analytics, Business Intelligence, Insight Analyst and Visualization
-🧰 Tools I Use: Excel, Power BI, SQL, Python.
-📍 Currently working on real-world data projects and capstone case studies
-🌱 Always learning new skills and frameworks for better storytelling with data
-🧰 My Toolkit
-Skillset	Tools
-Data Analysis	Excel, Power BI, Python (Pandas), SQL
-Visualization	Power BI, Matplotlib
-Data Cleaning	Excel, Python (Pandas), Power Query
-Business Insights	KPI Tracking, Dashboards, Reporting
-Others	GitHub, Google Sheets, Canva
-📁 Featured Projects
-🏡 ABJC Real Estate Sales Dashboard
-Visual summary of sales metrics across countries and product types
-🔗 [View Project Repo](](https://github.com/samuel-olayinka/ABJC-Real-Estate-Sales-Dashboard-Excel-)
+I transform **raw data into actionable insights** that drive better decisions and measurable impact. With a strong background in **data analysis, business intelligence, and project management**, I enjoy solving real-world problems using data storytelling and modern analytics tools.
 
-🛠 Tools:Excel
+---
 
-📞 MTN Customer Churn Analysis
-Analyzed churn risk using Python and created a dashboard in Power BI
-🔗 [View Project Repo] (https://github.com/samuel-olayinka/MTN-Customer-Churn-Analysis-Power-BI-Dashboard) 🛠 Tools: Power BI
+## 🚀 About Me
 
-🥤 Coca-Cola Sales Performance
-Interactive Excel dashboard tracking regional product performance
-🔗 [View Project Repo]((https://github.com/samuel-olayinka/Coca-cola-Retail-Dashboard) 🛠 Tools: Excel, Pivot Tables, Charts
+* 💡 Passionate about turning complex datasets into clear, meaningful insights
+* 🧠 Analytical thinker with strong business and project management skills
+* 🌍 Certified in **Cultures & Languages**, enabling effective collaboration across diverse teams
+* 📈 Experienced in end-to-end data workflows: data cleaning, analysis, visualization, and reporting
 
-🛒 Superstore Sales Analysis
-Interactive Excel and Power BI dashboard analyzing Superstore sales data.
+---
 
-🔗 [View Project Repo] (https://github.com/samuel-olayinka/Superstore-Sales-Analysis---PowerBI-Dashboard) 🛠 Tools: Excel, Power BI, Data Cleaning, Visualization
+## 🛠️ Skills & Tools
 
-🦠 Diseases Outbreak Analysis
-Excel and Power BI project analyzing disease outbreak trends, locations, and affected populations.
+**Data Analysis & Visualization**
 
-🔗 [View Project Repository] (https://github.com/samuel-olayinka/Diseases-Outbreak-Patients-Report-Excel-Dashboard) 🛠 Tools: Excel, Power BI, Data Cleaning, Geographic Mapping, Charts
+* Excel (Advanced)
+* SQL
+* Python (Pandas, NumPy, Matplotlib)
+* Power BI
+* Tableau
 
-🧠 Alzheimer Diseases PowerBI Analysis
-Power BI project analyzing Alzheimer's Disease using a brain MRI image dataset.
+**Project Management**
 
-🔗 [View Project Repository] https://github.com/samuel-olayinka/Alzheimer-s-Disease-Power-Bi-Dashboard/edit/main/README.md
+* Project planning & execution
+* Stakeholder communication
+* Agile & productivity tools
 
-🛠 Tools: Power BI
+---
 
-📊 Financial Overview Dashboard
-This project presents a Financial Overview Dashboard built using Power BI. The dashboard provides insights into revenue, profit, cost, and transaction performance across different financial services.
+## 📂 Featured Portfolio Projects
 
-🔗 [View Project Repository] https://github.com/samuel-olayinka/Financial-Overview-Dashboard-Power-BI/blob/main/README.md
+### 🍕 Pizza Sales Analysis Project
 
-🛠 Tools: Power BI
+**Tools:** Excel | SQL | Power BI
 
-🍫 Chocolate Sales Insights Dashboard
-This project showcases a Chocolate Sales Insights Dashboard built with Power BI. The dashboard provides a comprehensive view of sales performance, product distribution, regional trends, and salesperson contributions 🔗 [View Project Repository]
+* Analyzed sales performance and customer trends
+* Identified best-selling products and peak sales periods
+* Delivered insights to improve revenue and inventory planning
 
-https://github.com/samuel-olayinka/Chocolate-Sales-Insights-Dashboard/blob/main/README.md
+---
 
-🛠 Tools: Power BI
+### 🚗 Tesla Stock & Sales Analysis
 
-📈 GitHub Stats
-![samuel-olayinka](](https://github-readme-stats.vercel.app/api?username=Samuel-Olayinka&show_icons=true&theme=gruvbox)
+**Tools:** Python | Excel | Tableau
 
-📖 Business Sales Tracker
-This Business Sales Tracker is a Google Sheets tool designed to help business owners record, monitor, and analyze sales performance in real time.
+* Performed exploratory data analysis on stock and sales data
+* Visualized trends and performance over time
+* Provided data-driven insights for investment and business decisions
 
-🔗 [View Project Repository] https://github.com/samuel-olayinka/Business-Sales-Tracker-Google-Sheet/edit/main/README.md 🛠 Tools: Google Sheet
+---
 
-🤝 Let’s Connect
-💼 LinkedIn
-📧 Email: Thoughtsbyyinka@gmail.com
-🌐 Portfolio: your-portfolio.com
-🚀 "Data is the new oil, but insight is the engine."
+### 💰 Financial Analysis Report – Mataan Store
+
+**Tools:** Excel | Power BI
+
+* Built a comprehensive financial performance report
+* Analyzed revenue, expenses, and profitability
+* Created interactive dashboards for management decision-making
+
+---
+
+### 🏥 Medical Health Report Dashboard
+
+**Tools:** Power BI | Tableau | Excel
+
+* Designed an interactive health analytics dashboard
+* Tracked key medical and operational indicators
+* Improved data visibility for better healthcare insights
+
+---
+
+## 📊 What I Enjoy Doing
+
+✔ Cleaning and modeling data
+✔ Discovering hidden patterns and trends
+✔ Building clean, modern dashboards
+✔ Communicating insights through data storytelling
+
+---
+
+## 🌐 Let’s Connect
+
+* 💼 **GitHub:** Explore my repositories and projects here
+* 📊 **Portfolio:** Showcasing real-world, impact-driven data projects
+* 🤝 Open to collaboration, freelance work, and full-time opportunities
+
+---
+
+### ⭐ If you like my work, feel free to star ⭐ my repositories and connect with me!
+
+> *"Data is only as valuable as the insights you extract from it."*
