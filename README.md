@@ -37,7 +37,7 @@ I transform **raw data into actionable insights** that drive better decisions an
 
 ## 📂 Featured Portfolio Projects
 
-### 🍕 Pizza Sales Analysis Project
+### 🍕 [Pizza Sales Analysis Project](https://github.com/abdikarimmataan/Pizza-Sales_Data_Analystics.git)
 
 **Tools:** Excel | SQL | Power BI
 
