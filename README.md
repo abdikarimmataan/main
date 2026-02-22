@@ -57,7 +57,7 @@ I transform **raw data into actionable insights** that drive better decisions an
 
 ---
 
-### 💰 Financial Analysis Report – Mataan Store
+### 💰 [Financial Analysis Report – Mataan Store](https://github.com/abdikarimmataan/Financial-Analysis-Dashboard_Data-Analytics-PowerBI-.git)
 
 **Tools:** Excel | Power BI
 
