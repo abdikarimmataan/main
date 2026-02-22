@@ -10,7 +10,7 @@ I transform **raw data into actionable insights** that drive better decisions an
 
 * 💡 Passionate about turning complex datasets into clear, meaningful insights
 * 🧠 Analytical thinker with strong business and project management skills
-* 🌍 Certified in **Cultures & Languages**, enabling effective collaboration across diverse teams
+* 🌍 Certified in **Cultures & Interpretations**, enabling effective collaboration across diverse teams
 * 📈 Experienced in end-to-end data workflows: data cleaning, analysis, visualization, and reporting
 
 ---
@@ -18,7 +18,6 @@ I transform **raw data into actionable insights** that drive better decisions an
 ## 🛠️ Skills & Tools
 
 **Data Analysis & Visualization**
-
 * Excel (Advanced)
 * SQL
 * Python (Pandas, NumPy, Matplotlib)
@@ -26,11 +25,14 @@ I transform **raw data into actionable insights** that drive better decisions an
 * Tableau
 
 **Project Management**
-
 * Project planning & execution
 * Stakeholder communication
 * Agile & productivity tools
 
+**Other Softwares & AI**
+* Qualified usage of AI platforms Chatgpt, Copilot, Deepseek, Video & Photo Generation AIs.  
+* Professional in Microsoft Suit & Emails management
+* Design and Editing Softwares: Canva/Adobe Illustrator/Photoshop/UI/UX designing
 ---
 
 ## 📂 Featured Portfolio Projects
@@ -79,7 +81,7 @@ I transform **raw data into actionable insights** that drive better decisions an
 
 ✔ Cleaning and modeling data
 ✔ Discovering hidden patterns and trends
-✔ Building clean, modern dashboards
+✔ Building clean and modern dashboards
 ✔ Communicating insights through data storytelling
 
 ---
