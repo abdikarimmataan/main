@@ -67,7 +67,7 @@ I transform **raw data into actionable insights** that drive better decisions an
 
 ---
 
-### 🏥 Medical Health Report Dashboard
+### 🏥 [Smoking Health Risk Analysis Dashboard](https://github.com/abdikarimmataan/Smoking-Health-Risk-Analysis-Dashboard.git)
 
 **Tools:** Power BI | Tableau | Excel
 
