@@ -39,7 +39,7 @@ I transform **raw data into actionable insights** that drive better decisions an
 
 ### 🍕 [Pizza Sales Analysis Project](https://github.com/abdikarimmataan/Pizza-Sales_Data_Analystics.git)
 
-**Tools:** Excel | SQL | Power BI
+**Tools:** Excel | MySQL | Power BI
 
 * Analyzed sales performance and customer trends
 * Identified best-selling products and peak sales periods
@@ -47,9 +47,9 @@ I transform **raw data into actionable insights** that drive better decisions an
 
 ---
 
-### 🚗 Tesla Stock & Sales Analysis
+### 🚗 [Tesla Stock & Sales Analysis](https://github.com/abdikarimmataan/Tesla-Stock-Sales-Analysis.git)
 
-**Tools:** Python | Excel | Tableau
+**Tools:** Excel | PowerBI
 
 * Performed exploratory data analysis on stock and sales data
 * Visualized trends and performance over time
@@ -69,7 +69,7 @@ I transform **raw data into actionable insights** that drive better decisions an
 
 ### 🏥 [Smoking Health Risk Analysis Dashboard](https://github.com/abdikarimmataan/Smoking-Health-Risk-Analysis-Dashboard.git)
 
-**Tools:** Power BI | Tableau | Excel
+**Tools:** Power BI | Excel
 
 * Designed an interactive health analytics dashboard
 * Tracked key medical and operational indicators
